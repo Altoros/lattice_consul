@@ -1,0 +1,1 @@
+In this demo we deploy consul, mysql and lattice clusters to show how you can use consul service discovery capabilities in applications, running on lattice.
